@@ -4,7 +4,7 @@ NVB Python Summer 2026 Capstone Project
 
 What does it do?
 
-This project analyzes a biomedical patient outcomes dataset using Python and pandas. The goal is to identify which diagnosis and age group have the highest 30-day hospital readmission rates. The program loads the dataset, checks for missing values, calculates readmission rates, creates two bar graphs, and summarizes the results.
+This project analyzes a biomedical patient outcomes dataset using Python. The goal is to identify which diagnosis and age group have the highest 30-day hospital readmission rates. The program loads the dataset, checks for missing values, calculates readmission rates, creates two bar graphs, and summarizes the results.
 
 
 How to run it:
