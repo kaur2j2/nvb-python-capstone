@@ -28,6 +28,14 @@ Skills demonstrated:
 
 -Displaying a written summary of the results
 
+
+Questions:
+
+Which diagnosis has the highest 30-day readmission rate?
+
+Which age group has the highest 30-day readmission rate?
+
+
 Key findings:
 
 Cardiovascular Disease had the highest 30-day readmission rate, and the 45–59 age group had the highest readmission rate in the dataset.
