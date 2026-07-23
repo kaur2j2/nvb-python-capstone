@@ -35,6 +35,6 @@ Cardiovascular Disease had the highest 30-day readmission rate, and the 45–59 
 
 Author:
 
-Jasmine Kaur 
-University of Cincinnati
+Jasmine Kaur, 
+University of Cincinnati,
 NVB Summer 2026
