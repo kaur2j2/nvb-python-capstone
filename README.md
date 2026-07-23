@@ -16,12 +16,17 @@ Run each section of the notebook from top to bottom.
 
 Skills demonstrated:
 
-Using pandas to load and analyze a CSV dataset
-Creating and using a function with a docstring
-Grouping and summarizing data using groupby()
-Checking for missing values
-Creating data visualizations with matplotlib
-Displaying a written summary of the results
+-Using pandas to load and analyze a CSV dataset
+
+-Creating and using a function with a docstring
+
+-Grouping and summarizing data using groupby()
+
+-Checking for missing values
+
+-Creating data visualizations with matplotlib
+
+-Displaying a written summary of the results
 
 
 Key findings:
