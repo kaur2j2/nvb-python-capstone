@@ -1,0 +1,361 @@
+patient_id,age_group,diagnosis,treatment_type,insurance_type,length_of_stay_days,previous_admissions,complication_occurred,readmitted_30days,patient_satisfaction
+P0001,60-74,Orthopedic Injury,Medication Only,Medicare,7.7,1,0,0,3.7
+P0002,18-29,Neurological Disorder,Physical Therapy,Medicare,5.1,3,0,0,4.6
+P0003,45-59,Type 2 Diabetes,Physical Therapy,Military/VA,9.5,2,0,1,1.6
+P0004,30-44,Mental Health,Surgery,Private,3.5,4,1,0,3.9
+P0005,30-44,Cancer - Early Stage,Combined Therapy,Uninsured,,2,0,1,4.0
+P0006,60-74,Type 2 Diabetes,Combined Therapy,Medicare,4.5,1,0,0,4.9
+P0007,30-44,Orthopedic Injury,Surgery,Medicaid,5.0,5,0,0,4.7
+P0008,45-59,Hypertension,Physical Therapy,Private,1.0,4,1,0,3.7
+P0009,60-74,Cardiovascular Disease,Combined Therapy,Uninsured,12.2,0,0,0,
+P0010,60-74,Neurological Disorder,Medication Only,Military/VA,9.2,1,0,0,2.7
+P0011,30-44,Type 2 Diabetes,Physical Therapy,Private,7.3,3,0,0,2.9
+P0012,30-44,Neurological Disorder,Outpatient Monitoring,Private,6.1,1,0,0,3.0
+P0013,30-44,Neurological Disorder,Combined Therapy,Private,12.3,2,0,0,2.4
+P0014,30-44,Cardiovascular Disease,Surgery,Private,3.8,2,1,1,4.6
+P0015,18-29,Cancer - Early Stage,Surgery,Medicaid,6.6,0,0,0,4.0
+P0016,45-59,Neurological Disorder,Medication Only,Private,13.0,1,1,0,4.2
+P0017,45-59,Mental Health,Physical Therapy,Private,5.5,0,0,1,3.5
+P0018,45-59,Respiratory Infection,Physical Therapy,Medicare,7.2,2,0,0,2.8
+P0019,18-29,Cancer - Early Stage,Surgery,Military/VA,4.2,1,0,0,4.4
+P0020,30-44,Type 2 Diabetes,Combined Therapy,Medicaid,5.2,3,0,1,3.4
+P0021,45-59,Cancer - Early Stage,Outpatient Monitoring,Medicaid,11.3,0,0,0,3.1
+P0022,60-74,Hypertension,Physical Therapy,Private,2.6,0,0,0,2.8
+P0023,75+,Hypertension,Physical Therapy,Medicare,5.1,0,0,0,3.4
+P0024,60-74,Cancer - Early Stage,Physical Therapy,Private,8.5,1,0,1,
+P0025,60-74,Hypertension,Combined Therapy,Medicaid,5.9,1,0,0,4.9
+P0026,45-59,Cardiovascular Disease,Surgery,Medicaid,9.1,0,0,0,3.7
+P0027,45-59,Hypertension,Combined Therapy,Uninsured,2.5,3,0,1,3.8
+P0028,60-74,Type 2 Diabetes,Outpatient Monitoring,Private,7.1,2,0,0,3.3
+P0029,60-74,Cardiovascular Disease,Physical Therapy,Private,10.6,3,1,1,2.5
+P0030,45-59,Cancer - Early Stage,Physical Therapy,Private,4.8,3,0,0,3.1
+P0031,75+,Cardiovascular Disease,Medication Only,Private,13.1,0,0,0,4.5
+P0032,60-74,Type 2 Diabetes,Combined Therapy,Uninsured,4.9,0,0,0,2.2
+P0033,30-44,Cancer - Early Stage,Physical Therapy,Medicaid,3.5,2,0,0,4.6
+P0034,18-29,Mental Health,Combined Therapy,Private,3.4,1,0,0,2.5
+P0035,45-59,Cancer - Early Stage,Medication Only,Medicaid,10.0,3,0,0,3.9
+P0036,18-29,Cardiovascular Disease,Surgery,Military/VA,2.8,1,0,0,3.3
+P0037,60-74,Hypertension,Combined Therapy,Medicare,2.8,2,0,0,3.4
+P0038,45-59,Orthopedic Injury,Physical Therapy,Private,5.2,2,0,0,2.6
+P0039,75+,Cardiovascular Disease,Medication Only,Private,11.8,1,0,0,3.5
+P0040,45-59,Type 2 Diabetes,Outpatient Monitoring,Private,5.3,1,0,0,5.0
+P0041,75+,Respiratory Infection,Outpatient Monitoring,Private,7.9,2,0,0,3.4
+P0042,75+,Respiratory Infection,Combined Therapy,Private,9.6,2,0,0,3.8
+P0043,45-59,Type 2 Diabetes,Physical Therapy,Private,9.2,2,0,0,2.6
+P0044,60-74,Cardiovascular Disease,Physical Therapy,Medicaid,8.3,1,0,0,4.0
+P0045,60-74,Mental Health,Outpatient Monitoring,Private,10.7,0,0,0,3.1
+P0046,45-59,Mental Health,Medication Only,Private,3.9,1,0,0,4.4
+P0047,60-74,Cardiovascular Disease,Medication Only,Medicaid,10.8,2,0,0,3.0
+P0048,45-59,Neurological Disorder,Medication Only,Medicare,9.8,1,0,0,2.5
+P0049,18-29,Neurological Disorder,Surgery,Medicare,7.1,0,0,0,2.4
+P0050,60-74,Cancer - Early Stage,Medication Only,Medicaid,8.0,1,0,0,3.5
+P0051,60-74,Mental Health,Combined Therapy,Private,5.7,0,0,0,4.1
+P0052,60-74,Respiratory Infection,Physical Therapy,Military/VA,6.4,0,0,0,2.3
+P0053,45-59,Mental Health,Physical Therapy,Medicare,5.7,1,0,1,3.9
+P0054,30-44,Mental Health,Medication Only,Uninsured,3.1,2,0,1,3.4
+P0055,30-44,Cardiovascular Disease,Combined Therapy,Private,6.8,1,0,0,4.1
+P0056,60-74,Respiratory Infection,Combined Therapy,Private,5.7,4,0,0,4.0
+P0057,60-74,Hypertension,Combined Therapy,Medicare,7.0,2,0,0,3.7
+P0058,75+,Cancer - Early Stage,Outpatient Monitoring,Medicare,8.5,4,0,0,4.2
+P0059,18-29,Mental Health,Outpatient Monitoring,Private,2.7,3,0,0,4.0
+P0060,60-74,Orthopedic Injury,Outpatient Monitoring,Military/VA,9.8,2,0,1,3.2
+P0061,60-74,Cardiovascular Disease,Physical Therapy,Military/VA,9.3,1,0,1,3.6
+P0062,30-44,Type 2 Diabetes,Outpatient Monitoring,Uninsured,5.1,1,0,0,4.0
+P0063,75+,Respiratory Infection,Surgery,Medicaid,7.5,1,0,0,3.5
+P0064,45-59,Cardiovascular Disease,Physical Therapy,Medicare,5.2,1,0,0,4.8
+P0065,18-29,Respiratory Infection,Physical Therapy,Uninsured,1.4,4,0,0,4.2
+P0066,45-59,Type 2 Diabetes,Medication Only,Private,3.1,3,0,1,2.9
+P0067,45-59,Orthopedic Injury,Physical Therapy,Medicare,5.9,2,0,1,3.7
+P0068,45-59,Hypertension,Outpatient Monitoring,Private,3.7,0,0,0,4.3
+P0069,30-44,Respiratory Infection,Outpatient Monitoring,Medicaid,3.5,3,0,1,3.8
+P0070,60-74,Orthopedic Injury,Outpatient Monitoring,Medicaid,7.9,1,1,0,2.9
+P0071,60-74,Cardiovascular Disease,Combined Therapy,Medicare,14.4,2,1,0,2.3
+P0072,60-74,Orthopedic Injury,Outpatient Monitoring,Medicaid,9.5,3,1,1,3.8
+P0073,18-29,Cancer - Early Stage,Outpatient Monitoring,Private,6.2,1,0,0,2.8
+P0074,45-59,Respiratory Infection,Outpatient Monitoring,Medicaid,6.9,1,0,0,3.6
+P0075,18-29,Orthopedic Injury,Outpatient Monitoring,Private,6.4,3,0,0,4.0
+P0076,30-44,Hypertension,Physical Therapy,Private,5.5,2,0,0,4.7
+P0077,75+,Cardiovascular Disease,Surgery,Medicaid,10.1,1,0,0,3.8
+P0078,30-44,Mental Health,Outpatient Monitoring,Medicaid,6.8,2,0,0,4.4
+P0079,60-74,Cancer - Early Stage,Combined Therapy,Medicare,8.3,4,0,1,3.4
+P0080,45-59,Type 2 Diabetes,Physical Therapy,Private,2.8,1,0,0,4.0
+P0081,60-74,Mental Health,Surgery,Medicaid,8.7,0,0,0,3.7
+P0082,75+,Type 2 Diabetes,Combined Therapy,Medicaid,8.2,2,0,0,4.3
+P0083,18-29,Orthopedic Injury,Combined Therapy,Private,1.1,1,0,0,2.7
+P0084,18-29,Type 2 Diabetes,Physical Therapy,Uninsured,4.4,1,0,0,4.5
+P0085,60-74,Orthopedic Injury,Medication Only,,6.7,1,0,0,2.8
+P0086,60-74,Cancer - Early Stage,Medication Only,Private,6.6,0,0,0,3.4
+P0087,30-44,Cardiovascular Disease,Combined Therapy,Uninsured,7.0,0,0,0,3.4
+P0088,45-59,Cardiovascular Disease,Combined Therapy,Medicaid,7.3,1,0,0,4.6
+P0089,18-29,Respiratory Infection,Outpatient Monitoring,Uninsured,1.0,2,0,0,4.8
+P0090,60-74,Cancer - Early Stage,Surgery,Medicare,11.1,2,0,0,3.6
+P0091,30-44,Cardiovascular Disease,Combined Therapy,Private,6.6,1,0,0,3.7
+P0092,60-74,Hypertension,Combined Therapy,Private,3.7,1,0,0,3.9
+P0093,60-74,Hypertension,Surgery,Private,4.7,2,1,0,4.1
+P0094,60-74,Mental Health,Outpatient Monitoring,Medicare,4.5,0,0,0,4.2
+P0095,45-59,Neurological Disorder,Medication Only,Medicare,10.1,3,0,0,3.6
+P0096,75+,Cardiovascular Disease,Surgery,Private,8.8,1,0,0,3.1
+P0097,60-74,Mental Health,Combined Therapy,Uninsured,7.5,1,0,0,
+P0098,75+,Cardiovascular Disease,Combined Therapy,Private,12.0,1,1,1,1.8
+P0099,60-74,Neurological Disorder,Combined Therapy,Private,5.6,2,1,0,4.3
+P0100,60-74,Hypertension,Medication Only,Private,6.0,1,0,0,2.6
+P0101,60-74,Orthopedic Injury,Physical Therapy,Private,7.6,4,0,1,4.2
+P0102,60-74,Orthopedic Injury,Physical Therapy,Uninsured,6.4,3,0,0,3.4
+P0103,60-74,Respiratory Infection,Medication Only,Private,7.2,2,0,0,3.6
+P0104,30-44,Cancer - Early Stage,Medication Only,Private,7.5,1,0,0,4.2
+P0105,45-59,Cardiovascular Disease,Combined Therapy,Private,7.7,0,0,0,3.4
+P0106,18-29,Type 2 Diabetes,Surgery,Private,5.9,1,0,0,3.9
+P0107,45-59,Cardiovascular Disease,Physical Therapy,Medicare,9.9,1,0,0,2.8
+P0108,60-74,Type 2 Diabetes,Outpatient Monitoring,Private,9.9,0,0,0,2.5
+P0109,75+,Orthopedic Injury,Outpatient Monitoring,Private,6.8,2,0,0,4.5
+P0110,18-29,Type 2 Diabetes,Surgery,Uninsured,3.5,0,0,0,4.1
+P0111,60-74,Cancer - Early Stage,Combined Therapy,Private,7.1,3,0,1,4.6
+P0112,75+,Mental Health,Combined Therapy,Medicare,10.9,0,0,0,2.7
+P0113,30-44,Hypertension,Medication Only,Private,8.9,4,0,1,
+P0114,30-44,Orthopedic Injury,Physical Therapy,Medicare,2.8,5,0,0,3.3
+P0115,45-59,Type 2 Diabetes,Physical Therapy,Medicare,8.5,2,0,0,2.4
+P0116,45-59,Cardiovascular Disease,Physical Therapy,Military/VA,5.3,1,0,0,4.1
+P0117,75+,Hypertension,Physical Therapy,Private,8.0,3,0,0,4.2
+P0118,30-44,Respiratory Infection,Physical Therapy,Medicare,1.0,2,0,0,3.6
+P0119,75+,Cancer - Early Stage,Physical Therapy,Medicare,10.6,2,0,1,3.6
+P0120,45-59,Neurological Disorder,Outpatient Monitoring,Medicare,6.4,1,0,1,3.5
+P0121,30-44,Cancer - Early Stage,Combined Therapy,,3.1,1,0,0,3.8
+P0122,45-59,Neurological Disorder,Combined Therapy,Private,7.0,2,0,0,
+P0123,18-29,Mental Health,Medication Only,Private,3.3,1,0,0,3.9
+P0124,60-74,Type 2 Diabetes,Surgery,Private,4.8,0,1,0,4.8
+P0125,18-29,Mental Health,Surgery,Uninsured,5.7,0,0,0,4.4
+P0126,60-74,Orthopedic Injury,Outpatient Monitoring,Medicaid,7.2,1,0,0,4.2
+P0127,45-59,Orthopedic Injury,Surgery,Medicare,5.8,0,0,0,4.2
+P0128,45-59,Neurological Disorder,Physical Therapy,Medicaid,9.5,3,1,1,4.0
+P0129,75+,Neurological Disorder,Combined Therapy,Medicaid,14.6,5,1,1,
+P0130,45-59,Mental Health,Combined Therapy,Private,6.0,0,0,0,3.6
+P0131,30-44,Mental Health,Surgery,Private,1.0,1,1,0,3.1
+P0132,30-44,Respiratory Infection,Physical Therapy,Medicaid,3.5,1,0,0,4.1
+P0133,30-44,Mental Health,Physical Therapy,Military/VA,3.9,2,0,0,3.2
+P0134,60-74,Type 2 Diabetes,Medication Only,Private,6.8,2,1,1,4.3
+P0135,30-44,Mental Health,Medication Only,Private,4.4,1,0,0,4.3
+P0136,45-59,Type 2 Diabetes,Surgery,Uninsured,6.8,1,0,0,3.9
+P0137,45-59,Respiratory Infection,Physical Therapy,Private,8.2,1,0,0,3.8
+P0138,60-74,Neurological Disorder,Medication Only,Private,10.9,2,1,0,1.3
+P0139,60-74,Orthopedic Injury,Surgery,Medicaid,6.7,4,0,0,3.9
+P0140,75+,Cancer - Early Stage,Outpatient Monitoring,Private,4.1,2,0,0,4.4
+P0141,45-59,Mental Health,Medication Only,Private,2.2,1,0,1,4.1
+P0142,30-44,Neurological Disorder,Physical Therapy,Private,,0,0,0,3.6
+P0143,30-44,Mental Health,Combined Therapy,Medicaid,6.4,1,0,0,
+P0144,30-44,Respiratory Infection,Medication Only,Medicare,7.4,0,0,1,2.8
+P0145,30-44,Mental Health,Medication Only,Private,7.0,3,0,0,3.0
+P0146,45-59,Type 2 Diabetes,Physical Therapy,Medicare,6.9,2,0,0,4.8
+P0147,75+,Cancer - Early Stage,Combined Therapy,Medicare,10.2,3,1,1,2.9
+P0148,60-74,Respiratory Infection,Outpatient Monitoring,Private,4.7,1,0,0,3.0
+P0149,60-74,Orthopedic Injury,Surgery,Military/VA,8.1,3,0,1,3.0
+P0150,75+,Mental Health,Physical Therapy,Private,7.3,3,0,0,3.0
+P0151,75+,Orthopedic Injury,Outpatient Monitoring,Private,11.5,1,1,1,1.0
+P0152,30-44,Neurological Disorder,Surgery,Private,5.8,0,0,0,4.0
+P0153,60-74,Respiratory Infection,Combined Therapy,Private,6.5,1,0,0,4.4
+P0154,60-74,Cancer - Early Stage,Combined Therapy,Medicare,6.0,0,0,0,4.6
+P0155,18-29,Type 2 Diabetes,Physical Therapy,Medicaid,4.3,0,0,0,4.3
+P0156,18-29,Cancer - Early Stage,Combined Therapy,Medicare,5.9,0,0,0,3.9
+P0157,60-74,Hypertension,Surgery,Military/VA,5.8,1,0,1,4.4
+P0158,60-74,Orthopedic Injury,Surgery,Uninsured,8.0,2,0,0,4.3
+P0159,45-59,Cardiovascular Disease,Combined Therapy,Medicare,6.8,1,0,1,
+P0160,75+,Mental Health,Medication Only,Military/VA,8.0,0,0,0,5.0
+P0161,60-74,Type 2 Diabetes,Surgery,Private,8.5,2,0,0,3.9
+P0162,18-29,Neurological Disorder,Surgery,Medicaid,8.8,3,0,0,2.5
+P0163,45-59,Respiratory Infection,Combined Therapy,Military/VA,3.9,0,0,0,3.8
+P0164,75+,Respiratory Infection,Combined Therapy,Private,11.8,3,0,1,3.1
+P0165,60-74,Orthopedic Injury,Surgery,Private,7.9,0,0,0,2.4
+P0166,75+,Neurological Disorder,Combined Therapy,Military/VA,10.2,0,0,0,4.0
+P0167,30-44,Orthopedic Injury,Surgery,Private,6.4,3,0,0,4.0
+P0168,60-74,Orthopedic Injury,Physical Therapy,Medicare,11.9,0,1,0,3.7
+P0169,45-59,Cardiovascular Disease,Surgery,Medicare,6.5,1,0,0,3.0
+P0170,60-74,Cardiovascular Disease,Surgery,Medicaid,12.8,1,0,0,3.9
+P0171,60-74,Type 2 Diabetes,Physical Therapy,Military/VA,9.0,1,0,1,4.8
+P0172,45-59,Neurological Disorder,Outpatient Monitoring,Medicaid,9.6,2,0,0,3.9
+P0173,75+,Type 2 Diabetes,Surgery,Medicare,8.0,1,0,0,3.2
+P0174,60-74,Respiratory Infection,Physical Therapy,Medicare,4.8,0,0,0,4.2
+P0175,75+,Respiratory Infection,Outpatient Monitoring,Private,7.0,3,0,0,3.0
+P0176,30-44,Type 2 Diabetes,Outpatient Monitoring,Medicare,6.8,2,1,0,2.6
+P0177,75+,Cancer - Early Stage,Outpatient Monitoring,Medicare,10.7,1,1,0,1.4
+P0178,30-44,Neurological Disorder,Surgery,,7.4,2,0,0,3.5
+P0179,45-59,Cancer - Early Stage,Outpatient Monitoring,Private,7.2,2,0,0,3.4
+P0180,75+,Hypertension,Physical Therapy,Private,,1,0,1,3.3
+P0181,18-29,Cardiovascular Disease,Surgery,Private,3.1,1,0,1,2.7
+P0182,45-59,Hypertension,Surgery,Medicaid,6.5,5,0,1,4.5
+P0183,75+,Neurological Disorder,Physical Therapy,Private,10.4,0,0,0,3.7
+P0184,75+,Cardiovascular Disease,Outpatient Monitoring,Military/VA,14.5,2,0,0,3.1
+P0185,60-74,Cardiovascular Disease,Medication Only,Private,11.4,3,0,1,3.6
+P0186,75+,Hypertension,Physical Therapy,Medicare,9.5,1,0,0,3.6
+P0187,18-29,Cancer - Early Stage,Physical Therapy,Uninsured,6.4,1,0,0,4.0
+P0188,60-74,Neurological Disorder,Combined Therapy,Medicaid,12.0,3,0,1,3.7
+P0189,45-59,Cancer - Early Stage,Surgery,Medicare,8.4,0,0,0,4.0
+P0190,45-59,Neurological Disorder,Outpatient Monitoring,Private,10.7,3,0,0,3.5
+P0191,30-44,Cardiovascular Disease,Physical Therapy,Private,3.3,0,0,0,2.5
+P0192,75+,Cardiovascular Disease,Surgery,Private,11.8,2,0,0,4.5
+P0193,30-44,Hypertension,Outpatient Monitoring,Private,5.1,1,0,0,4.9
+P0194,18-29,Orthopedic Injury,Surgery,Uninsured,5.1,1,0,1,4.5
+P0195,75+,Mental Health,Medication Only,Medicaid,11.3,4,0,0,4.5
+P0196,30-44,Respiratory Infection,Medication Only,Private,1.9,1,0,0,4.6
+P0197,45-59,Type 2 Diabetes,Combined Therapy,Military/VA,7.3,2,0,1,3.5
+P0198,18-29,Neurological Disorder,Physical Therapy,Private,5.1,0,0,0,4.1
+P0199,45-59,Orthopedic Injury,Surgery,Private,7.2,1,0,0,3.8
+P0200,45-59,Hypertension,Outpatient Monitoring,Medicare,4.4,1,0,0,3.3
+P0201,45-59,Respiratory Infection,Outpatient Monitoring,Private,4.6,2,0,0,3.0
+P0202,60-74,Type 2 Diabetes,Physical Therapy,Private,5.4,3,1,0,3.2
+P0203,45-59,Type 2 Diabetes,Medication Only,Private,3.5,1,0,0,2.7
+P0204,18-29,Type 2 Diabetes,Surgery,Medicare,4.8,0,0,0,3.8
+P0205,18-29,Type 2 Diabetes,Combined Therapy,Military/VA,1.8,1,0,0,3.3
+P0206,45-59,Respiratory Infection,Surgery,Military/VA,5.9,3,0,0,4.0
+P0207,75+,Neurological Disorder,Physical Therapy,Medicaid,14.0,2,0,1,3.5
+P0208,45-59,Respiratory Infection,Combined Therapy,Private,7.3,1,0,0,2.4
+P0209,75+,Type 2 Diabetes,Outpatient Monitoring,Military/VA,10.0,1,0,0,2.7
+P0210,60-74,Neurological Disorder,Combined Therapy,Medicare,7.2,1,0,0,3.9
+P0211,60-74,Hypertension,Outpatient Monitoring,Private,5.0,3,0,0,3.8
+P0212,75+,Respiratory Infection,Outpatient Monitoring,Uninsured,7.1,0,0,0,4.4
+P0213,18-29,Mental Health,Physical Therapy,Private,3.6,0,0,0,3.5
+P0214,60-74,Orthopedic Injury,Surgery,Private,9.3,2,0,0,4.6
+P0215,45-59,Cancer - Early Stage,Combined Therapy,Private,9.2,0,0,0,2.8
+P0216,75+,Respiratory Infection,Medication Only,Military/VA,5.7,1,0,0,3.9
+P0217,75+,Cancer - Early Stage,Medication Only,,7.1,1,0,0,3.5
+P0218,60-74,Mental Health,Outpatient Monitoring,Private,10.1,1,0,0,3.4
+P0219,75+,Hypertension,Outpatient Monitoring,Medicaid,8.6,2,0,0,4.2
+P0220,30-44,Hypertension,Outpatient Monitoring,Private,2.2,1,0,1,4.5
+P0221,60-74,Hypertension,Medication Only,Private,10.0,4,0,0,3.6
+P0222,60-74,Respiratory Infection,Outpatient Monitoring,Private,5.4,0,0,0,3.6
+P0223,18-29,Hypertension,Physical Therapy,Medicaid,1.0,1,0,0,3.6
+P0224,18-29,Hypertension,Surgery,Uninsured,1.0,1,0,0,3.9
+P0225,30-44,Type 2 Diabetes,Combined Therapy,Private,1.3,3,0,0,3.1
+P0226,60-74,Cancer - Early Stage,Medication Only,Military/VA,6.3,1,0,1,3.6
+P0227,60-74,Cancer - Early Stage,Outpatient Monitoring,Medicare,6.3,2,1,0,3.8
+P0228,45-59,Orthopedic Injury,Physical Therapy,Private,3.2,0,0,0,3.7
+P0229,60-74,Respiratory Infection,Combined Therapy,Private,3.4,2,0,0,3.1
+P0230,30-44,Mental Health,Medication Only,Medicare,4.4,2,0,0,4.4
+P0231,18-29,Mental Health,Combined Therapy,Medicaid,5.3,1,0,0,4.5
+P0232,60-74,Cancer - Early Stage,Outpatient Monitoring,Private,6.9,1,1,0,2.7
+P0233,60-74,Mental Health,Physical Therapy,Private,9.8,1,0,0,2.7
+P0234,75+,Orthopedic Injury,Outpatient Monitoring,Medicare,5.6,1,0,0,4.1
+P0235,18-29,Mental Health,Surgery,Medicaid,5.1,2,0,1,3.5
+P0236,30-44,Cancer - Early Stage,Surgery,Medicaid,5.3,0,0,0,3.6
+P0237,75+,Cancer - Early Stage,Physical Therapy,Medicaid,13.2,0,0,0,2.5
+P0238,75+,Cancer - Early Stage,Physical Therapy,Private,15.0,2,0,0,2.3
+P0239,75+,Type 2 Diabetes,Physical Therapy,Medicare,6.8,2,1,0,1.8
+P0240,60-74,Type 2 Diabetes,Physical Therapy,Private,9.4,2,0,1,3.9
+P0241,75+,Mental Health,Combined Therapy,Private,12.2,2,1,0,3.4
+P0242,30-44,Type 2 Diabetes,Combined Therapy,Military/VA,7.1,1,0,0,3.0
+P0243,45-59,Respiratory Infection,Physical Therapy,Military/VA,1.8,2,0,1,3.8
+P0244,30-44,Type 2 Diabetes,Surgery,Medicare,3.7,0,0,0,3.7
+P0245,60-74,Type 2 Diabetes,Physical Therapy,Military/VA,4.2,4,0,0,4.6
+P0246,75+,Respiratory Infection,Combined Therapy,Medicare,7.8,1,0,0,3.3
+P0247,45-59,Mental Health,Combined Therapy,Private,6.7,1,1,0,1.8
+P0248,45-59,Orthopedic Injury,Medication Only,Private,9.3,4,0,0,4.1
+P0249,30-44,Cardiovascular Disease,Outpatient Monitoring,Private,6.3,1,1,0,2.7
+P0250,45-59,Neurological Disorder,Surgery,Medicaid,9.6,1,0,0,4.8
+P0251,75+,Type 2 Diabetes,Combined Therapy,Private,9.9,0,0,1,3.5
+P0252,45-59,Hypertension,Medication Only,Medicaid,,2,0,0,3.4
+P0253,75+,Neurological Disorder,Medication Only,Medicaid,14.6,0,0,0,3.8
+P0254,60-74,Neurological Disorder,Physical Therapy,Private,9.4,2,0,0,
+P0255,75+,Cardiovascular Disease,Physical Therapy,Private,11.6,1,0,1,3.7
+P0256,60-74,Hypertension,Physical Therapy,Medicare,4.3,1,0,0,4.1
+P0257,45-59,Orthopedic Injury,Combined Therapy,Uninsured,8.2,1,0,0,3.6
+P0258,45-59,Hypertension,Physical Therapy,Medicare,2.9,2,0,0,2.5
+P0259,75+,Mental Health,Medication Only,Private,11.6,2,0,0,4.0
+P0260,30-44,Cancer - Early Stage,Combined Therapy,Medicaid,8.1,5,0,0,2.7
+P0261,60-74,Mental Health,Outpatient Monitoring,Medicare,3.1,0,0,0,3.6
+P0262,45-59,Neurological Disorder,Outpatient Monitoring,Private,7.0,1,0,0,3.6
+P0263,18-29,Neurological Disorder,Combined Therapy,Private,6.5,1,0,0,3.0
+P0264,30-44,Orthopedic Injury,Physical Therapy,Private,1.5,2,0,0,3.9
+P0265,30-44,Type 2 Diabetes,Combined Therapy,Private,4.7,2,0,0,3.1
+P0266,60-74,Cancer - Early Stage,Medication Only,Military/VA,7.4,2,0,0,3.6
+P0267,30-44,Type 2 Diabetes,Combined Therapy,Military/VA,9.2,2,0,0,3.6
+P0268,75+,Type 2 Diabetes,Physical Therapy,Uninsured,12.7,1,0,0,3.5
+P0269,30-44,Cancer - Early Stage,Medication Only,Medicaid,7.0,3,0,1,4.7
+P0270,75+,Neurological Disorder,Surgery,Private,13.3,0,0,0,3.5
+P0271,60-74,Mental Health,Combined Therapy,Medicaid,10.8,2,1,1,3.0
+P0272,30-44,Respiratory Infection,Medication Only,Private,1.6,2,0,1,3.9
+P0273,75+,Respiratory Infection,Outpatient Monitoring,Medicaid,3.2,1,0,0,3.2
+P0274,45-59,Hypertension,Outpatient Monitoring,Medicare,2.4,2,0,0,4.0
+P0275,60-74,Neurological Disorder,Combined Therapy,Private,12.3,0,0,0,3.8
+P0276,45-59,Orthopedic Injury,Outpatient Monitoring,Medicaid,4.9,2,0,0,4.0
+P0277,60-74,Type 2 Diabetes,Medication Only,Medicare,10.3,1,0,0,3.5
+P0278,45-59,Respiratory Infection,Medication Only,Private,,2,0,0,3.6
+P0279,18-29,Respiratory Infection,Medication Only,Medicare,4.5,1,0,0,4.5
+P0280,30-44,Hypertension,Outpatient Monitoring,Medicare,5.9,2,0,0,4.5
+P0281,60-74,Orthopedic Injury,Outpatient Monitoring,Private,6.5,0,1,0,1.4
+P0282,30-44,Type 2 Diabetes,Physical Therapy,Medicaid,5.4,1,0,0,3.8
+P0283,75+,Neurological Disorder,Outpatient Monitoring,Medicare,9.3,1,0,0,3.5
+P0284,60-74,Neurological Disorder,Combined Therapy,Uninsured,8.9,1,0,0,3.4
+P0285,30-44,Respiratory Infection,Combined Therapy,Private,1.0,1,0,0,4.2
+P0286,18-29,Cardiovascular Disease,Medication Only,Medicare,6.3,5,1,0,3.1
+P0287,30-44,Orthopedic Injury,Surgery,Private,2.8,0,0,0,4.4
+P0288,18-29,Neurological Disorder,Physical Therapy,Uninsured,5.3,1,0,0,4.1
+P0289,60-74,Hypertension,Combined Therapy,Medicare,4.3,2,1,0,3.2
+P0290,60-74,Cardiovascular Disease,Surgery,Medicaid,9.3,3,0,0,3.0
+P0291,18-29,Type 2 Diabetes,Outpatient Monitoring,Military/VA,6.6,1,0,0,4.0
+P0292,60-74,Respiratory Infection,Surgery,Private,8.6,1,0,0,3.2
+P0293,45-59,Orthopedic Injury,Outpatient Monitoring,Private,7.7,0,0,0,3.4
+P0294,18-29,Orthopedic Injury,Medication Only,Uninsured,1.0,2,0,0,3.4
+P0295,18-29,Cardiovascular Disease,Combined Therapy,Uninsured,4.1,0,0,0,3.8
+P0296,45-59,Respiratory Infection,Outpatient Monitoring,Medicaid,5.1,2,0,0,3.9
+P0297,45-59,Orthopedic Injury,Medication Only,Private,4.4,3,0,0,3.0
+P0298,60-74,Hypertension,Outpatient Monitoring,,4.8,1,0,0,4.8
+P0299,60-74,Orthopedic Injury,Combined Therapy,Medicaid,7.7,0,0,0,3.9
+P0300,30-44,Respiratory Infection,Combined Therapy,Medicaid,9.2,2,0,0,3.6
+P0301,45-59,Type 2 Diabetes,Surgery,Uninsured,5.8,4,0,1,
+P0302,30-44,Cancer - Early Stage,Surgery,Medicaid,5.4,0,0,0,3.3
+P0303,45-59,Cancer - Early Stage,Combined Therapy,Private,8.0,0,0,0,3.5
+P0304,45-59,Respiratory Infection,Medication Only,Private,1.9,5,0,0,2.6
+P0305,60-74,Hypertension,Outpatient Monitoring,Medicare,5.5,2,0,0,4.0
+P0306,18-29,Type 2 Diabetes,Physical Therapy,Uninsured,3.1,1,1,0,
+P0307,18-29,Cancer - Early Stage,Physical Therapy,Medicare,4.7,1,0,0,4.1
+P0308,60-74,Respiratory Infection,Combined Therapy,Military/VA,8.2,2,0,0,2.8
+P0309,45-59,Hypertension,Medication Only,Private,2.7,1,0,0,4.8
+P0310,30-44,Mental Health,Surgery,Private,2.7,0,0,0,4.2
+P0311,45-59,Neurological Disorder,Physical Therapy,Private,5.5,2,0,0,4.2
+P0312,30-44,Cancer - Early Stage,Surgery,Private,6.3,2,0,0,3.5
+P0313,18-29,Neurological Disorder,Outpatient Monitoring,Medicaid,5.0,3,1,0,2.8
+P0314,60-74,Type 2 Diabetes,Outpatient Monitoring,Medicaid,7.8,2,1,1,3.3
+P0315,60-74,Mental Health,Surgery,Medicaid,4.9,0,0,0,4.0
+P0316,45-59,Cancer - Early Stage,Combined Therapy,Medicaid,9.4,1,0,0,4.6
+P0317,30-44,Hypertension,Combined Therapy,Private,1.9,0,0,0,2.8
+P0318,60-74,Cardiovascular Disease,Medication Only,Medicare,8.4,3,0,0,3.8
+P0319,60-74,Hypertension,Outpatient Monitoring,Medicare,6.3,2,0,0,2.3
+P0320,45-59,Respiratory Infection,Outpatient Monitoring,Private,2.2,1,0,0,3.7
+P0321,60-74,Type 2 Diabetes,Medication Only,Private,8.3,0,0,0,
+P0322,75+,Mental Health,Outpatient Monitoring,Uninsured,9.3,0,0,0,2.8
+P0323,60-74,Respiratory Infection,Surgery,Military/VA,2.8,3,0,1,4.7
+P0324,45-59,Hypertension,Medication Only,Uninsured,3.6,4,0,1,3.4
+P0325,75+,Hypertension,Surgery,Private,6.5,0,0,0,2.7
+P0326,45-59,Cardiovascular Disease,Medication Only,Uninsured,8.6,3,0,1,3.7
+P0327,60-74,Cardiovascular Disease,Combined Therapy,Uninsured,9.2,2,0,0,2.8
+P0328,75+,Orthopedic Injury,Surgery,Medicare,8.6,0,0,0,3.7
+P0329,75+,Type 2 Diabetes,Outpatient Monitoring,Medicaid,7.3,1,0,0,
+P0330,45-59,Hypertension,Outpatient Monitoring,Medicaid,4.4,1,1,1,2.6
+P0331,60-74,Respiratory Infection,Surgery,Private,5.7,2,0,0,5.0
+P0332,60-74,Cancer - Early Stage,Physical Therapy,Medicaid,5.7,0,0,0,3.5
+P0333,30-44,Type 2 Diabetes,Outpatient Monitoring,Private,4.7,2,1,0,2.7
+P0334,30-44,Neurological Disorder,Combined Therapy,Medicaid,7.1,0,0,1,3.5
+P0335,60-74,Neurological Disorder,Physical Therapy,Military/VA,10.9,1,0,0,3.0
+P0336,60-74,Mental Health,Surgery,Medicaid,7.1,3,0,0,2.9
+P0337,45-59,Hypertension,Surgery,Private,1.9,3,0,0,3.4
+P0338,30-44,Respiratory Infection,Physical Therapy,Medicare,8.0,3,0,0,2.9
+P0339,30-44,Hypertension,Surgery,Uninsured,5.9,1,1,0,3.5
+P0340,45-59,Type 2 Diabetes,Outpatient Monitoring,Private,4.3,2,0,0,4.1
+P0341,45-59,Hypertension,Surgery,Private,5.3,2,0,0,4.2
+P0342,75+,Mental Health,Physical Therapy,Uninsured,9.8,1,0,0,3.5
+P0343,60-74,Cancer - Early Stage,Combined Therapy,Private,6.7,2,0,0,3.3
+P0344,45-59,Hypertension,Surgery,Military/VA,3.4,1,0,0,4.1
+P0345,60-74,Mental Health,Combined Therapy,Private,12.2,1,0,0,2.9
+P0346,45-59,Respiratory Infection,Medication Only,Medicare,,0,0,0,3.9
+P0347,45-59,Hypertension,Physical Therapy,Uninsured,3.4,0,0,0,2.9
+P0348,60-74,Hypertension,Physical Therapy,Private,3.2,2,0,1,5.0
+P0349,60-74,Mental Health,Medication Only,Uninsured,11.0,3,1,0,4.5
+P0350,18-29,Type 2 Diabetes,Outpatient Monitoring,Private,4.3,3,0,0,3.8
+P0351,75+,Neurological Disorder,Physical Therapy,Medicaid,15.2,1,0,0,3.9
+P0352,45-59,Cancer - Early Stage,Surgery,Medicare,7.1,1,0,0,2.2
+P0353,45-59,Mental Health,Outpatient Monitoring,Private,3.2,0,0,0,3.6
+P0354,45-59,Hypertension,Combined Therapy,Medicaid,,1,0,0,3.8
+P0355,18-29,Respiratory Infection,Physical Therapy,Private,1.0,2,0,0,3.2
+P0356,75+,Mental Health,Medication Only,Medicaid,11.3,1,0,0,3.3
+P0357,30-44,Neurological Disorder,Surgery,Private,6.3,0,0,0,3.0
+P0358,60-74,Neurological Disorder,Outpatient Monitoring,Private,7.7,1,0,0,
+P0359,45-59,Type 2 Diabetes,Combined Therapy,Medicaid,6.5,0,0,0,5.0
+P0360,60-74,Respiratory Infection,Surgery,Medicaid,6.1,0,0,0,4.2
